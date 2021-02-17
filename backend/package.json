@@ -1,0 +1,23 @@
+{
+  "name": "battle-backend",
+  "version": "1.0.0",
+  "description": "A Backend for the Pokemon battle project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/battle.git"
+  },
+  "keywords": [
+    "Pokemon",
+    "battle"
+  ],
+  "author": "SiddharthShyniben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/battle/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/battle#readme"
+}
